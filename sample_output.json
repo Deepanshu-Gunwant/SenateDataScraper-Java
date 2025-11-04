@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Senator Cathy Giessel",
+    "title": "Senator",
+    "party": "Republican",
+    "profile": "State Capitol, Room 427, Juneau, AK 99801",
+    "dob": "",
+    "type": "District E",
+    "country": "United States",
+    "url": "https://www.akleg.gov/senate.php#member",
+    "otherinfo": "(907) 465-4843  senator.cathygiessel@akleg.gov"
+  },
+  {
+    "name": "Senator Bill Wielechowski",
+    "title": "Senator",
+    "party": "Democrat",
+    "profile": "State Capitol, Room 9, Juneau, AK 99801",
+    "dob": "",
+    "type": "District H",
+    "country": "United States",
+    "url": "https://www.akleg.gov/billwielechowski",
+    "otherinfo": "(907) 465-2435  senator.billwielechowski@akleg.gov"
+  },
+  {
+    "name": "Senator Bert Stedman",
+    "title": "Senator",
+    "party": "Republican",
+    "profile": "State Capitol, Room 30, Juneau, AK 99801",
+    "dob": "",
+    "type": "District A",
+    "country": "United States",
+    "url": "https://www.akleg.gov/bertstedman",
+    "otherinfo": "(907) 465-3873  senator.bertstedman@akleg.gov"
+  },
+  {
+    "name": "Senator Jesse Bjorkman",
+    "title": "Senator",
+    "party": "Republican",
+    "profile": "State Capitol, Room 125, Juneau, AK 99801",
+    "dob": "",
+    "type": "District D",
+    "country": "United States",
+    "url": "https://www.akleg.gov/jessebjorkman",
+    "otherinfo": "(907) 465-2828  senator.jessebjorkman@akleg.gov"
+  },
+  {
+    "name": "Senator Forrest Dunbar",
+    "title": "Senator",
+    "party": "Democrat",
+    "profile": "State Capitol, Room 11, Juneau, AK 99801",
+    "dob": "",
+    "type": "District J",
+    "country": "United States",
+    "url": "https://www.akleg.gov/forrestdunbar",
+    "otherinfo": "(907) 465-5260  senator.forrestdunbar@akleg.gov"
+  }
+]

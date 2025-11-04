@@ -1,0 +1,12 @@
+Task: Implement web scraper + documentation + sample output
+Total time spent: 5.5 hours
+
+Breakdown:
+- Requirements collection & design: 0.5 hour
+- Project setup (Maven, dependencies): 0.5 hour
+- Implement Selenium scraper & JSON export: 2.5 hours
+- Error handling, testing on sample pages: 1.0 hour
+- Documentation & packaging: 1.0 hour
+
+Notes:
+The total 5.5-hour estimate includes coding, testing, documentation preparation, and final verification.
